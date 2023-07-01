@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+/* .bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/jordan-andrews-guxR5-GrzMU-unsplash.jpg);
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/neom-_jfejQo2tZw-unsplash.jpg);
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/neom-SGZ5DkDOoRo-unsplash.jpg);
+} */
+
+.bg-custom {
+  height: 75vh;
+}
